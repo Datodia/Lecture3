@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    background-color: green;
+}
+
+table,
+td,
+th {
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    border-spacing: 2px;
+}
+
+th {
+    border: 2px double black;
+    background-color: lightblue;
+}
+
+
+/* 
+#nika {
+    color: green;
+    background-color: blue;
+} */
+
+td {
+    background-color: lightcoral;
+}
